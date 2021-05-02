@@ -1,1 +1,1 @@
-# vue-study
+# vue-admin
